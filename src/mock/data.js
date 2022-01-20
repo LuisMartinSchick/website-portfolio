@@ -46,7 +46,7 @@ export const projectsData = [
     info: "Climbing (and bouldering) allows me to meet my friends and have fun with them, while keeping in shape! Most times I'm climbing it's in an indoor gym, however I love climbing outside - you get so close to nature. :)",
     info2:
       'One of the aspects I love about climbing is that it calls for creative problem solving, and that it is so much fun.',
-    url: '',
+    url: 'https://luismartinschick.com/404',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -56,7 +56,7 @@ export const projectsData = [
     info: "A perfect way to decompress and disconnect from a busy life, diving. At the start of 2019 I did my CMAS * diver course, and since then I've been diving in Germany, Turkey and Spain.",
     info2:
       "Whenever I travel to a location with a nice, warm sea, I always look for possible diving spots. It's a very fun way to spend time!",
-    url: '',
+    url: 'https://luismartinschick.com/404',
     repo: '', // if no repo, the button will not show up
   },
 ];
