@@ -51,7 +51,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'diving.jpg',
+    img: 'diving.png',
     title: 'Diving',
     info: "A perfect way to decompress and disconnect from a busy life, diving. At the start of 2019 I did my CMAS * diver course, and since then I've been diving in Germany, Turkey and Spain.",
     info2:
